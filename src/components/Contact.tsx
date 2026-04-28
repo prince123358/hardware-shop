@@ -25,7 +25,7 @@ export default function Contact() {
               {[
                 { icon: <MapPin size={18} />, label: 'Address', value: 'Mondha Chowk, Nanded, MH' },
                 { icon: <Phone size={18} />, label: 'Call Us', value: '+91 87666 33713' },
-                { icon: <Mail size={18} />, label: 'Email', value: 'sales@maharashtra.com' },
+                { icon: <Mail size={18} />, label: 'Email', value: 'sales@marathwada.com' },
                 { icon: <Clock size={18} />, label: 'Hours', value: '09:00 AM - 08:30 PM' },
               ].map((item) => (
                 <div key={item.label} className="flex flex-col gap-4 group">

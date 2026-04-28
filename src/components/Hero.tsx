@@ -17,11 +17,11 @@ export default function Hero() {
           <div className="mb-4">
             <span className="text-[10px] font-bold uppercase tracking-[0.4em] text-gray-500 mb-4 block">Since 1995 • Nanded’s Hardware Excellence</span>
             <h1 className="text-6xl md:text-8xl font-light text-white leading-[0.95] mb-8 tracking-tight">
-              Your Trusted <br/>
-              <span className="font-serif italic text-gray-500">Hardware</span> Partner
+              Marathwada <br/>
+              <span className="font-serif italic text-gray-500">Hardware</span>
             </h1>
             <p className="max-w-md text-sm md:text-base text-gray-400 font-medium mb-12 leading-relaxed">
-              Experience premium quality and unmatched reliability. Maharashtra Hardware Shop provides industry-standard tools, paints, and electrical supplies across Central India.
+              Experience premium quality and unmatched reliability. Managed by <span className="text-white">Syed Danish Affan</span> & <span className="text-white">Syed Haji</span>, we provide industry-standard tools and supplies across Central India.
             </p>
           </div>
 

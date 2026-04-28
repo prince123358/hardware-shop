@@ -23,7 +23,7 @@ export default function About() {
               Nanded’s Most Trusted <br /> <span className="font-serif italic text-gray-500">Hardware Hub</span>
             </h2>
             <p className="text-gray-400 text-sm leading-relaxed mb-8 font-medium">
-              Maharashtra Hardware Shop has been the cornerstone of Nanded’s construction and renovation industry since 1995. We don’t just sell tools; we provide industrial solutions that build the city.
+              Marathwada Hardware Shop has been the cornerstone of Nanded’s construction and renovation industry since 1995. We don’t just sell tools; we provide industrial solutions that build the city.
             </p>
             
             <div className="flex items-center gap-10 mt-12">

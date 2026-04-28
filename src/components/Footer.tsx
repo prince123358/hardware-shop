@@ -24,7 +24,7 @@ export default function Footer() {
         </div>
 
         <div className="text-[10px] tracking-[0.3em] uppercase text-gray-500 font-bold w-full md:w-auto text-center md:text-right">
-          © 2024 Maharashtra Hardware • All Rights Reserved
+          © 2024 Marathwada Hardware • All Rights Reserved
         </div>
       </div>
     </footer>

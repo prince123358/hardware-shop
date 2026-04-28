@@ -8,7 +8,7 @@ export default function Offers() {
   const [showPopup, setShowPopup] = useState(false);
 
   useEffect(() => {
-    const savedOffers = localStorage.getItem('mh_offers');
+    const savedOffers = localStorage.getItem('mw_offers');
     if (savedOffers) {
       const parsed = JSON.parse(savedOffers);
       setOffers(parsed);
@@ -20,7 +20,7 @@ export default function Offers() {
         { id: '1', title: 'Asian Paints & Power Tools', discount: '20% OFF', description: 'Valid on all premium brands until Oct 31st.', isActive: true },
       ];
       setOffers(defaultOffers);
-      localStorage.setItem('mh_offers', JSON.stringify(defaultOffers));
+      localStorage.setItem('mw_offers', JSON.stringify(defaultOffers));
       setTimeout(() => setShowPopup(true), 2000);
     }
   }, []);

@@ -28,7 +28,7 @@ export default function Navbar() {
               <span className="text-black font-black text-xl italic leading-none">M</span>
             </div>
             <span className="text-lg font-bold tracking-[0.2em] uppercase text-white hidden sm:block">
-              Maharashtra <span className="text-gray-500 font-medium">Hardware</span>
+              Marathwada <span className="text-gray-500 font-medium">Hardware</span>
             </span>
           </div>
 

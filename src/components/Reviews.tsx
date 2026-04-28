@@ -12,7 +12,7 @@ const testimonials = [
   {
     name: "Sunita Deshpande",
     role: "Interior Designer",
-    comment: "As an interior designer, I need a specific variety of paints and fittings. Maharashtra Hardware never disappoints with their collection.",
+    comment: "As an interior designer, I need a specific variety of paints and fittings. Marathwada Hardware never disappoints with their collection.",
     rating: 5,
     date: "February 2026"
   },
